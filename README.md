@@ -1,4 +1,4 @@
-# JKFLIPFLOP-USING-IF-ELSE
+# Implementation of JK flipflop using Verilog HDL
 
 **AIM:** 
 
